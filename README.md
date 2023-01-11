@@ -1,7 +1,7 @@
 ![2022-06-28_19 43 18](https://user-images.githubusercontent.com/59617287/177016630-c99ab87a-b737-4f14-b71d-11174401298c.png)
 
-## Hello, I'm Eldeston
-I'm a self-taught Filipino developer in UAE. I'm the founder of FlameRender™ Studios and developed projects under the name of my studio. I prioritize maximum optimization and formatting for all my projects. I'm just a rookie developer who creates content for fun and to help my family.
+# Hello, I'm Eldeston
+I'm a self-taught Filipino developer in UAE. I'm the founder of FlameRender™ Studios and developed projects under the name of my studio. I prioritize maximum optimization and formatting for all my projects. Most of my projects revolve around Minecraft, but I'm planning to make other projects outside Minecraft. I'm just a rookie developer who creates content for fun and to help my family.
 
 [![Eldeston's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eldeston&show_icons=true&theme=transparent)](https://github.com/Eldeston)
 
@@ -9,7 +9,7 @@ I'm a self-taught Filipino developer in UAE. I'm the founder of FlameRender™ S
 
 [![Eldeston's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Eldeston&layout=compact&theme=transparent)](https://github.com/Eldeston)
 
-## Social Links
+# Social Links
    Come join my Discord server to talk about other developments made by the studio-community
    * [Flamerender Studios Discord](https://discord.gg/UE85W5ynCg)
    
