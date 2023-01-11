@@ -5,9 +5,9 @@ I'm a self-taught Filipino developer in UAE. I'm the founder of FlameRender™ S
 
 [![Eldeston's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eldeston&show_icons=true&theme=transparent)](https://github.com/Eldeston)
 
-[![Eldeston's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=Eldeston&repo=super-duper-vanilla&show_owner=true&theme=transparent)](https://github.com/Eldeston)
+[![Eldeston's pinned repository](https://github-readme-stats.vercel.app/api/pin?username=Eldeston&repo=super-duper-vanilla&show_owner=true&theme=transparent)](https://github.com/Eldeston)
 
-[![Eldeston's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Eldeston&layout=compact&theme=transparent)](https://github.com/Eldeston)
+[![Eldeston's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Eldeston&layout=compact&theme=transparent)](https://github.com/Eldeston)
 
 # Social Links
    Come join my Discord server to talk about other developments made by the studio-community
