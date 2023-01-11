@@ -1,5 +1,7 @@
+![2022-06-28_19 43 18](https://user-images.githubusercontent.com/59617287/177016630-c99ab87a-b737-4f14-b71d-11174401298c.png)
+
 ## Hello, I'm Eldeston
-I'm a Filipino developer in UAE. I'm the founder of FlameRender™ Studios and developed projects under the name of my studio. I'm just a rookie developer who creates content to help my family.
+I'm a self-taught Filipino developer in UAE. I'm the founder of FlameRender™ Studios and developed projects under the name of my studio. I prioritize maximum optimization and formatting for all my projects. I'm just a rookie developer who creates content for fun and to help my family.
 
 [![Eldeston's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eldeston&show_icons=true&theme=transparent)](https://github.com/Eldeston)
 
