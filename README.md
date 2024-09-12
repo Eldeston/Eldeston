@@ -1,4 +1,5 @@
-![2022-06-28_19 43 18](https://user-images.githubusercontent.com/59617287/177016630-c99ab87a-b737-4f14-b71d-11174401298c.png)
+![2022-06-28_19 43 18](https://github.com/Eldeston/Super-Duper-Vanilla/blob/master/shaders/textures/thumbCF.png)
+*Source image from Super Duper Vanilla by me*
 
 # Hello, I'm Eldeston
 I'm a self-taught Filipino developer in UAE. I'm the founder of FlameRender™ Studios and developed projects under the name of my studio. I prioritize maximum optimization and formatting for all my projects. Most of my projects revolve around Minecraft, but I'm planning to make other projects outside Minecraft. I'm just a rookie developer who creates content for fun and to help my family.
@@ -12,7 +13,7 @@ I'm a self-taught Filipino developer in UAE. I'm the founder of FlameRender™ S
 # Social Links
    Come join my Discord server to talk about other developments made by the studio-community
    * [Flamerender Studios Discord](https://discord.gg/UE85W5ynCg)
-   
+
    Or follow me on Twitter or subscribe to my Youtube channel to get updated with my recent developments and contents
    * [@Eldeston's Twitter](https://twitter.com/eldeston)
    * [@Eldeston's Channel](https://www.youtube.com/channel/UCQCkkFh25ydxZwCqpBhJJlg?view_as=subscriber)
