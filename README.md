@@ -8,13 +8,15 @@
 
 I'm a self-taught Filipino developer in UAE. I'm the founder of FlameRender™ Studios and developed projects under the name of my studio. I prioritize maximum optimization and formatting for all my projects. Most of my projects revolve around Minecraft, but I'm planning to make other projects outside Minecraft. I'm just a rookie developer who creates content for fun and to help my family.
 
-[![Eldeston's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eldeston&show_icons=true&theme=transparent)](https://github.com/Eldeston)
-
-[![Eldeston's pinned repository](https://github-readme-stats.vercel.app/api/pin?username=Eldeston&repo=super-duper-vanilla&show_owner=true&theme=transparent)](https://github.com/Eldeston)
-
-[![Eldeston's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Eldeston&layout=compact&theme=transparent)](https://github.com/Eldeston)
-
-> 
+<a href="https://github.com/Eldeston">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eldeston&show_icons=true&theme=transparent"/>
+</a>
+<a href="https://github.com/Eldeston/Super-Duper-Vanilla">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Eldeston&repo=super-duper-vanilla&show_owner=true&theme=transparent"/>
+</a>
+<a href="https://github.com/Eldeston">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eldeston&layout=compact&theme=transparent"/>
+</a>
 
 # Social Links
    Come join my Discord server to talk about other developments made by the studio-community
