@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/discord/604061216779796492.svg?label=FlameRender%E2%84%A2%20Studios&logo=discord&logoColor=white&logoWidth=16&labelColor=7289DA&style=for-the-badge)](https://discord.gg/UE85W5ynCg)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/eldeston?style=for-the-badge&logo=x&color=%231DA1F2)](https://twitter.com/eldeston)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQCkkFh25ydxZwCqpBhJJlg?color=FF0000&logoWidth=16&label=Eldeston&logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCQCkkFh25ydxZwCqpBhJJlg)
-![Profile Viewcount](https://komarev.com/ghpvc/?username=Eldeston&style=for-the-badge&color=brightgreen)
+![Profile Viewcount](https://komarev.com/ghpvc/?username=Eldeston&style=for-the-badge&color=lightgrey)
 
 I am a self-taught Filipino developer in UAE. I am a rookie developer who creates content for fun and for supporting my family. I am a student of Metaverse Age Training Institute in Bath Spa. I am the founder of FlameRender™ Studios and have developed projects under my studio. I prioritize maximum optimization, diligent documentation, and code formatting for all my projects. Most of my projects revolve around Minecraft, but I aim to participate and/or branch out to other kinds of projects.
 
