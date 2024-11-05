@@ -12,14 +12,25 @@ I am a self-taught Filipino developer in UAE. I am a rookie developer who create
 <a href="https://github.com/Eldeston">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eldeston&show_icons=true&theme=transparent"/>
 </a>
-<a href="https://github.com/Eldeston/Super-Duper-Vanilla">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Eldeston&repo=super-duper-vanilla&show_owner=true&theme=transparent"/>
-</a>
 <a href="https://github.com/Eldeston">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eldeston&layout=compact&theme=transparent"/>
 </a>
 
-# Social Links
+# Projects
+I am currently working on my own project Super Duper Vanilla, a shader pack for Minecraft Java that runs on a shader loader Iris on Fabric.
+
+<a href="https://github.com/Eldeston/Super-Duper-Vanilla">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Eldeston&repo=super-duper-vanilla&show_owner=true&theme=transparent"/>
+</a>
+
+# Education
+I am a student of Metaverse Age Training Institute (MATI) - a branch of Bath Spa University. I am currently taking a course in Creative Computing L4.
+
+<a href="https://github.com/Eldeston/Creative-Computing">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Eldeston&repo=creative-computing&show_owner=true&theme=transparent"/>
+</a>
+
+# Socials
    Come join my Discord server to talk about other developments made by the studio-community
    * [Flamerender Studios Discord](https://discord.gg/UE85W5ynCg)
 
