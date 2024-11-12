@@ -7,7 +7,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQCkkFh25ydxZwCqpBhJJlg?color=FF0000&logoWidth=16&label=Eldeston&logo=YouTube&style=for-the-badge)](https://www.youtube.com/channel/UCQCkkFh25ydxZwCqpBhJJlg)
 ![Profile Viewcount](https://komarev.com/ghpvc/?username=Eldeston&style=for-the-badge&color=lightgrey)
 
-I am a self-taught Filipino developer in UAE. I am a rookie developer who creates content for fun and for supporting my family. I am a student of Metaverse Age Training Institute in Bath Spa. I am the founder of FlameRender™ Studios and have developed projects under my studio. I prioritize maximum optimization, diligent documentation, and code formatting for all my projects. Most of my projects revolve around Minecraft, but I aim to participate and/or branch out to other kinds of projects.
+I am a self-taught Filipino developer in United Arab Emirates. I am a rookie developer who creates content for fun and for family support. I am a student of Metaverse Age Training Institute in Bath Spa. I am the founder and leader of FlameRender™ Studios and have developed projects under my studio. I prioritize maximum optimization, diligent documentation, and code formatting for all my projects. Most of my projects revolve around Minecraft, but I aim to participate and/or branch out to other kinds of projects related to software and computers.
 
 <a href="https://github.com/Eldeston">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eldeston&show_icons=true&theme=transparent"/>
@@ -17,7 +17,7 @@ I am a self-taught Filipino developer in UAE. I am a rookie developer who create
 </a>
 
 # Projects
-I am currently working on my own project Super Duper Vanilla, a shader pack for Minecraft Java that runs on a shader loader Iris on Fabric.
+I am the developer of Super Duper Vanilla shaders that runs on the Iris mod for Minecraft Java. I have worked on this project for 3 years. This project recently reached a milestone of 3 million downloads on Curseforge and 1 million downloads on Modrinth.
 
 <a href="https://github.com/Eldeston/Super-Duper-Vanilla">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Eldeston&repo=super-duper-vanilla&show_owner=true&theme=transparent"/>
