@@ -8,7 +8,7 @@
 ![Profile Viewcount](https://komarev.com/ghpvc/?username=Eldeston&style=for-the-badge&color=lightgrey)
 
 # 📗 Biography
-I am a self-taught Filipino developer in United Arab Emirates. I am a rookie developer who creates content for fun and for family support. I am a student of Metaverse Age Training Institute in Bath Spa. I am the founder and leader of FlameRender™ Studios and have developed projects under my studio. I prioritize maximum optimization, diligent documentation, and code formatting for all my projects. Most of my projects revolve around Minecraft, but I aim to participate and/or branch out to other kinds of projects related to software and computers.
+I am a self-taught Filipino developer in United Arab Emirates. I am a rookie who creates content for fun and for family support. I am a student of Metaverse Age Training Institute in Bath Spa. I am the founder and leader of FlameRender™ Studios and have developed projects under my studio. I prioritize maximum optimization, diligent documentation, and code formatting for all my projects. Most of my projects revolve around Minecraft, but I aim to participate and/or branch out to other kinds of projects related to software and computers.
 
 <a href="https://github.com/Eldeston">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Eldeston&show_icons=true&theme=transparent"/>
